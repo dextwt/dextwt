@@ -1,6 +1,6 @@
 <div align="center">
   <h2>i'm dex!</h2>  
-  <p><code>15y old, developer.</code></p>
+  <p><code>15yo, developer.</code></p>
   <a href="https://discord.com/users/884871236528771113">
     <img alt="my discord activity" src="https://lanyard.cnrad.dev/api/884871236528771113?bg=18191c&borderRadius=5px" />
   </a>
