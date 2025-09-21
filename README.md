@@ -1,13 +1,2 @@
 <div align="center">
-  <h2>dextwt</h2>  
-  <p><code>16yo, developer.</code></p>
-  <a href="https://discord.com/users/884871236528771113">
-    <img alt="my discord activity" src="https://lanyard.cnrad.dev/api/884871236528771113?bg=18191c&borderRadius=5px" />
-  </a>
-  
-<h3>stuffs</h3>
-
-</a>
-<img alt="my pronouns" src="https://img.shields.io/endpoint?color=%23fff&label=my%20pronouns%3A&logo=handshake&logoColor=%23fff&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6396950f95ed6674fbc90f12" />
-<img alt="discord" src="https://img.shields.io/static/v1?label=my%20discord%3A&message=@dexzory&color=5865F2&logo=discord&logoColor=white" />
-</div>
+	<a href="https://discord.com/users/884871236528771113"><img src="https://lanyard.kyrie25.dev/api/884871236528771113?gradient=AED0EE&waveSpotifyColor=75b7ea&clanbg=75b7ea&showDisplayName=true&hideDecoration=false&animatedDecoration=false&hideNameplate=false&hideTimestamp=false&hideActivity=false&hideDiscrim=false&hideSpotify=false&hideProfile=false&hideClan=false&hideStatus=false" /></a>  
